@@ -7,7 +7,7 @@ This is my first project using the Unity Engine. It was a stepping point into ge
 
 
 ## Overview
-An infinite runner is where the player has to continue a course for as long as they can for a score. I tried to recreate a similar experience by applying the same mechanics any other infinite runner would have.
+An infinite runner is where the player has to continue a course for as long as they can for a score. My goal was to recreate a similar experience by applying the same mechanics any other infinite runner would have.
 
 ## Custom Features
 
